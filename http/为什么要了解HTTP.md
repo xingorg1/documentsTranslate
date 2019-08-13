@@ -48,15 +48,15 @@ Accept: */*
 
 > * ```GET``` – The request method. It tells the server what the request is intended to do. This request wants the server to send back some data. MDN has a nice request method reference.  
 
-```GET``` —— 请求方法。它告诉服务器这个请求想要做什么。这个请求希望服务器能够返回一些数据。MDN有一个很好的[请求方法参照表](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods)。  
+* ```GET``` —— 请求方法。它告诉服务器这个请求想要做什么。这个请求希望服务器能够返回一些数据。MDN有一个很好的[请求方法参照表](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods)。  
 【注：(be intended to do：打算做...，想要...)】
 
 > * ```/``` – The resource we’re requesting. Since the homepage is at the root of the server, that’s the resource we’re requesting here.
 
-```/``` —— 我们请求的资源地址。由于我们请求的主页就在服务器的根目录下，所以“/”就是我们请求资源的地址。  
+* ```/``` —— 我们请求的资源地址。由于我们请求的主页就在服务器的根目录下，所以“/”就是我们请求资源的地址。  
 【注：(Since：自从、因为、由于、既然、自...以来)】
 
 > * ```HTTP/2``` – The protocol. This particular request is made using version 2 of HTTP.
 
-```HTTP/2``` —— 协议。这说明了该特殊请求是基于http/2.0版本的协议发出的。  
+* ```HTTP/2``` —— 协议。这说明了该特殊请求是基于http/2.0版本的协议发出的。  
 【注：(particular：特别的、详细说明)】
