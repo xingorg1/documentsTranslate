@@ -1,6 +1,8 @@
 # 文档翻译
 外文技术博文翻译
 
+[wiki](https://github.com/xingorg1/To-translate-documents/wiki)
+
 ## 目录
 分类 | 文档 |关键词| 译者 | 时间
 :--: | :--: |:--:| :--: | :--:
