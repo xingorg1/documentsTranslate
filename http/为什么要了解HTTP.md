@@ -26,4 +26,4 @@ HTTP通信发生在客户端和服务器之间。客户端发起HTTP请求，服
 
 > Actually, a single web page is usually comprised of multiple requests. What usually happens is a request is made for some HTML, and the server responds with the HTML. The browser starts rendering the HTML and makes additional requests for any other resources it needs to render the page — like Javascript files, CSS files, and images.
 
-事实上，
+事实上，一个简单的web页面通常由多种请求组成(comprised:由...组成)。
