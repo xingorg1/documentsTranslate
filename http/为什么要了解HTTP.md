@@ -4,8 +4,6 @@
 关键词：HTTP ,BEGINNERS
 ***
 “HTTP”是URLs地址开头的前四个字母，对吧？这就是你构建网站所必须要知道它的原因。就像[理解二进制(binary)](https://raddevon.com/articles/the-basics-of-binary-and-other-number-systems-for-web-developers/)一样，它也会帮助你理解你在其他方面不会理解的问题。他不是你必须要掌握的知识点(material:材质、物料)，但是理解他会使你成为一个更全面的开发者。  
-【注：(well-rounded：更全面的)】  
-
 作为我们软件所必须要遵循的基本通信协议(primary communication protocol)，让我们来学习一下HTTP吧！  
 
 ## 什么是HTTP？
@@ -20,11 +18,8 @@ HTTP通信发生在客户端和服务器之间。客户端发起HTTP请求，服
 
 
 事实上，一个简单的web页面通常由多个请求组成。通常情况下，一个请求由一些HTML发起，然后服务器响应这个HTML请求。浏览器开始渲染这个页面，紧接着会发起更多渲染这个页面时所需的其他资源的请求 —— 像JavaScript文件、CSS文件和图片等的请求。  
-【注：(comprised:由..组成)、(additional：额外的)】
 
 ## 请求的部分组成
-
-
 下边就是访问RadDevon.com的主页时原始(raw：未加工的)请求的样子：
 
 ```
@@ -39,12 +34,7 @@ Accept: */*
 
 
 * ```GET``` —— 请求方法。它告诉服务器这个请求想要做什么。这个请求希望服务器能够返回一些数据。MDN有一个很好的[请求方法参照表](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods)。  
-【注：(be intended to do：打算做...，想要...)】
-
 
 * ```/``` —— 我们请求的资源地址。由于我们请求的主页就在服务器的根目录下，所以“/”就是我们请求资源的地址。  
-【注：(Since：自从、因为、由于、既然、自...以来)】
-
 
 * ```HTTP/2``` —— 协议。这说明了该特殊请求是基于http/2.0版本的协议发出的。  
-【注：(particular：特别的、详细说明)】
