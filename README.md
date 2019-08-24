@@ -6,7 +6,7 @@
 ## 目录
 分类 | 文档 |关键词| 译者 | 时间
 :--: | :--: |:--:| :--: | :--:
-http | 1. [【译】为什么要了解HTTP](./http/为什么要了解HTTP.md) |HTTP ,BEGINNERS| @xing.org1^ | 20190809
+http | 1. [【译】为什么要了解HTTP](./http/为什么要了解HTTP.md) |HTTP ,BEGINNERS| @xing.org1^ | 20190809-20190824
 -- | -- | --
 
 ## 分支命名规则
